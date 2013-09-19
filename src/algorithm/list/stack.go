@@ -16,6 +16,7 @@ var (
 )
 
 func CreateStackArr(arg ...interface{}) Stack {
+
 	stack := &StackArr{}
 	switch len(arg) {
 	case 0:

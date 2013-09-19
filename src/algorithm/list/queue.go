@@ -2,7 +2,6 @@ package list
 
 import (
 	"errors"
-	//"fmt"
 	"reflect"
 	"runtime"
 )

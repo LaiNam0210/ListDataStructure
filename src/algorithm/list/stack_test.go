@@ -6,6 +6,7 @@ import (
 
 //testcase1
 func TestStackArray(T *testing.T) {
+
 	stack := CreateStackArr(100)
 
 	arr := []interface{}{"One", 1, "Two", 2, "Three", 3, "Four", 4, "Five", 5}
