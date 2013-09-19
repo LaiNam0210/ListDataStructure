@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "E:\\SVN\\Will-V2\\trunk"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\MiniProject-GoLang"
+		}
+	],
+	"settings":
+	{
+		"GoSublime":
+		{
+			"env":
+			{
+				"GOPATH": "D:\\MiniProject-GoLang\\ListDataStructure"
+			}
+		}
+	}
+}

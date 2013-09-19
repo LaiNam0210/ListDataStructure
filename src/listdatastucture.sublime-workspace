@@ -1,0 +1,1187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"de",
+				"DeQueues	[]interface{} ƒ"
+			],
+			[
+				"ma",
+				"mapKey	reflect.Value ν"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"e",
+				"Errorf	 ƒ"
+			],
+			[
+				"d",
+				"DeQueues	[]interface{} ƒ"
+			],
+			[
+				"D",
+				"DeQueues	[]interface{} ƒ"
+			],
+			[
+				"c",
+				"count	int64 ν"
+			],
+			[
+				"in",
+				"Interface	i interface{} ƒ"
+			],
+			[
+				"q",
+				"queue	Queue ν"
+			],
+			[
+				"co",
+				"Count	int64 ƒ"
+			],
+			[
+				"m",
+				"Map	 Ɩ"
+			],
+			[
+				"node",
+				"node	struct ʈ"
+			],
+			[
+				"E",
+				"Errorf	 ƒ"
+			],
+			[
+				"G",
+				"GC	 ƒ"
+			],
+			[
+				"is",
+				"IsEmpty	bool ƒ"
+			],
+			[
+				"t",
+				"total	int64 ν"
+			],
+			[
+				"qu",
+				"queue	*QueuePtr ν"
+			],
+			[
+				"def",
+				"defaultSizeQueue	 ν"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"Crea",
+				"CreatePtr	Stack ƒ"
+			],
+			[
+				"st",
+				"stack	*StackArr ν"
+			],
+			[
+				"i",
+				"IsEmpty	bool ƒ"
+			],
+			[
+				"stac",
+				"stack	*StackPtr ν"
+			],
+			[
+				"s",
+				"size	int64 ν"
+			],
+			[
+				"p",
+				"Push	error ƒ"
+			],
+			[
+				"ta",
+				"stack	 ν"
+			],
+			[
+				"err",
+				"errors	 package ρ"
+			],
+			[
+				"fuc",
+				"func (*Stack)	func (...) {...} ʂ"
+			],
+			[
+				"O",
+				"CombinedOutput	[]byte, error ƒ"
+			],
+			[
+				"P",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"M",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"S",
+				"Sleep	 ƒ"
+			],
+			[
+				"Reg",
+				"RegisterName	error ƒ"
+			],
+			[
+				"re",
+				"result	[]interface{} ν"
+			],
+			[
+				"er",
+				"errmsg	error ν"
+			],
+			[
+				"v",
+				"Value	struct ʈ"
+			],
+			[
+				"ti",
+				"ticker	*time.Ticker ν"
+			],
+			[
+				"tick",
+				"tickerGo	*time.Ticker ν"
+			],
+			[
+				"su",
+				"SumFloat32	float32 ƒ"
+			],
+			[
+				"A",
+				"arrayFloat32	[]float32 ν"
+			],
+			[
+				"sum",
+				"SumInt32	int32 ƒ"
+			],
+			[
+				"Ar",
+				"arrayInt	[]int32 ν"
+			],
+			[
+				"reg",
+				"gobRegister	 ƒ"
+			],
+			[
+				"C",
+				"CmmTwoError	struct ʈ"
+			],
+			[
+				"se",
+				"serviceType	reflect.Type ν"
+			],
+			[
+				"Num",
+				"NumOut	int ƒ"
+			],
+			[
+				"po",
+				"pointV	reflect.Value ν"
+			],
+			[
+				"poi",
+				"pointV	reflect.Value ν"
+			],
+			[
+				"ob",
+				"objectType	reflect.Type ν"
+			],
+			[
+				"o",
+				"objectType	reflect.Type ν"
+			],
+			[
+				"V",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"Re",
+				"Register	 ƒ"
+			],
+			[
+				"nu",
+				"NumIn	int ƒ"
+			],
+			[
+				"mt",
+				"mtype	reflect.Type ν"
+			],
+			[
+				"obj",
+				"objectV	reflect.Value ν"
+			],
+			[
+				"gob",
+				"gobRegister	 ƒ"
+			],
+			[
+				"T",
+				"Type	interface ¡"
+			],
+			[
+				"Ty",
+				"Type	interface ¡"
+			],
+			[
+				"Poi",
+				"Point	struct ʈ"
+			],
+			[
+				"tru",
+				"trunk"
+			],
+			[
+				"Point",
+				"Point	struct ʈ"
+			],
+			[
+				"Po",
+				"Point	struct ʈ"
+			],
+			[
+				"ser",
+				"ServerShutdown	*CmmOneError ν"
+			],
+			[
+				"me",
+				"methodName	string ν"
+			],
+			[
+				"N",
+				"Name	string ƒ"
+			],
+			[
+				"PR",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"r",
+				"readRequest	mtype *methodType, req *Request, args *[]interface{}, errmsg error ƒ"
+			],
+			[
+				"service",
+				"service	*service ν"
+			],
+			[
+				"object",
+				"objectT	reflect.Type ν"
+			],
+			[
+				"quo",
+				"quo	Quotient ν"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"ar",
+				"arrint32	[]int32 ν"
+			],
+			[
+				"a",
+				"arr	*CArray ν"
+			],
+			[
+				"arr",
+				"arrstring	[]string ν"
+			],
+			[
+				"servi",
+				"ServiceName	 ν"
+			],
+			[
+				"Fun",
+				"FuncD	reflect.Value ν"
+			],
+			[
+				"Func",
+				"FuncS	reflect.Value ν"
+			],
+			[
+				"sf",
+				"Sprintf	string ƒ"
+			],
+			[
+				"Obj",
+				"objectT	reflect.Type ν"
+			],
+			[
+				"ca",
+				"CanSet	bool ƒ"
+			],
+			[
+				"Ser",
+				"ServiceName	 ν"
+			],
+			[
+				"objet",
+				"objectV	reflect.Value ν"
+			],
+			[
+				"NUm",
+				"NumMethod	int ƒ"
+			],
+			[
+				"Se",
+				"Set	 ƒ"
+			],
+			[
+				"n",
+				"Name	string ƒ"
+			],
+			[
+				"point",
+				"point2	*Point ν"
+			],
+			[
+				"num",
+				"number2	reflect.Value ν"
+			],
+			[
+				"TYp",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"can",
+				"CanSet	bool ƒ"
+			],
+			[
+				"numbe",
+				"number2	reflect.Value ν"
+			],
+			[
+				"Me",
+				"Method	reflect.Value ƒ"
+			],
+			[
+				"Metho",
+				"MethodByName	reflect.Value ƒ"
+			],
+			[
+				"Ca",
+				"Call	[]reflect.Value ƒ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"res",
+				"result	[]interface{} ν"
+			],
+			[
+				"b",
+				"body	[]reflect.Value ν"
+			],
+			[
+				"Va",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"args",
+				"argsI	[]reflect.Value ν"
+			],
+			[
+				"Can",
+				"CanSet	bool ƒ"
+			],
+			[
+				"obje",
+				"objectT	reflect.Type ν"
+			],
+			[
+				"Ob",
+				"objectT	reflect.Type ν"
+			],
+			[
+				"f",
+				"Field	reflect.StructField ƒ"
+			],
+			[
+				"Res",
+				"Response	struct ʈ"
+			],
+			[
+				"new",
+				"NewEncoder	*gob.Encoder ƒ"
+			],
+			[
+				"Co",
+				"ClientCodec	interface ¡"
+			],
+			[
+				"Typ",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"bu",
+				"buf	*bufio.Writer ν"
+			],
+			[
+				"Readw",
+				"ReadWriteCloser	interface ¡"
+			],
+			[
+				"Mka",
+				"MakeFunc	reflect.Value ƒ"
+			],
+			[
+				"pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"va",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"fun",
+				"funtype	reflect.Type ν"
+			],
+			[
+				"mk",
+				"MakeFunc	reflect.Value ƒ"
+			],
+			[
+				"Valu",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"fi",
+				"Field	reflect.Value ƒ"
+			],
+			[
+				"Type",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"set",
+				"SetInt	 ƒ"
+			],
+			[
+				"CA",
+				"CAValue	reflect.Value ν"
+			],
+			[
+				"k",
+				"Kind	reflect.Kind ƒ"
+			],
+			[
+				"readw",
+				"ReadWriteCloser	interface ¡"
+			],
+			[
+				"ReadW",
+				"ReadWriteCloser	interface ¡"
+			],
+			[
+				"fo",
+				"Float64bits	uint64 ƒ"
+			],
+			[
+				"Fo",
+				"FormatInt	string ƒ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"g",
+				"global	struct ν"
+			],
+			[
+				"ty",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"tes",
+				"testcase3	 ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/MiniProject-GoLang/CloudChallenge/src/db/dbgplus.go",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/stack.go",
+			"settings":
+			{
+				"buffer_size": 2792,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue.go",
+			"settings":
+			{
+				"buffer_size": 2925,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue_test.go",
+			"settings":
+			{
+				"buffer_size": 2098,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "algorithm/list/queue.go",
+			"settings":
+			{
+				"buffer_size": 2916,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "algorithm/list/queue_test.go",
+			"settings":
+			{
+				"buffer_size": 2097,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "algorithm/list/stack_test.go",
+			"settings":
+			{
+				"buffer_size": 895,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "db/dbgplus.go",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "algorithm/list/stack.go",
+			"settings":
+			{
+				"buffer_size": 2793,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 58.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MiniProject-GoLang/ListDataStructure/src/listdatastucture.sublime-project",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue_test.go",
+		"/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue.go",
+		"/D/MiniProject-GoLang/CloudChallenge/cloudchallenge.sublime-project",
+		"/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/stack_test.go",
+		"/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue_tes.go",
+		"/C/Users/Meo/Desktop/Test/testfunc.go",
+		"/C/Users/Meo/Desktop/Test/SWebsocket.go",
+		"/C/Users/Meo/Desktop/Test/ClientTest.go",
+		"/C/Users/Meo/Desktop/Test/Twitter.go",
+		"/C/Users/Meo/Desktop/Test/websocket.go",
+		"/C/Users/Meo/Desktop/Observe.go",
+		"/C/Users/Meo/Desktop/test.go",
+		"/C/Users/Meo/Desktop/temp.go",
+		"/C/Users/Meo/Desktop/RPCDesign.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/two_server.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/fun.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/two_client_test.go",
+		"/E/Web Training/Go/LinkedList/LinkedList.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/client.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/driver.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/server.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/setup.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/util/env_test.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/one_test.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/Stwo.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/Ctwo_test.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/util/env.go",
+		"/D/GoProject/src/mop/column_editor.go",
+		"/D/mop/yahoo_market.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/two_test.go",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/E/SVN/Will-V2/trunk/will.vn.sublime-project",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/will.sublime-workspace",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/User/will.vn.sublime-project",
+		"/C/Users/Meo/Desktop/gobserver.go",
+		"/C/Users/Meo/Desktop/gob.go",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/GoSublime/W.sublime-project",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/GoSublime/W.sublime-workspace",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/driver.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/server.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/one_test_backup.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/client.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/cmm/client.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/cmm/driver.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/cmm/helper.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/Ctwo.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/cmm/server.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/one_doc.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/one_test.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/func.go",
+		"/E/SVN/w2013/trunk/src/liti.ws/drv/cmm_two/cmm_fake.go",
+		"/C/Users/Meo/Desktop/Test/bufioServer.go",
+		"/C/Users/Meo/Desktop/Test/bufioClient.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/alltests.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/two.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/twotest.go",
+		"/C/Users/Meo/Desktop/rpcResearch/src/rpc/client.go",
+		"/C/Users/Meo/Desktop/Test/rpcServer.go",
+		"/C/Users/Meo/Desktop/Test/rpcClient.go",
+		"/E/Web Training/Go/Gob Package/test.go",
+		"/E/Web Training/GAE/firstApp/hello/hello.go",
+		"/E/SVN/Will-V2/trunk/test/liti/uauth/unit_test.go",
+		"/E/Web Training/GAE/firstApp/hello.go",
+		"/C/Users/Meo/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/cmm_two.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/server.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/client.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/one.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_two/cmm_fake.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/core/module.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/lib/cmm/setup.go",
+		"/E/SVN/Will-V2/trunk/src/liti.ws/drv/cmm_one/setup.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/one.go",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/testcase.txt",
+		"/E/SVN/Will-V2/trunk/test/liti/cmm/one_test.bat",
+		"/E/SVN/Will-V2/trunk/test/liti/config/fake_configelem_test.go"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"E:\\SVN\\Will-V2\\trunk\\test\\liti\\cmm\\one_test.go, *.go",
+			"E:\\SVN\\Will-V2\\trunk\\src\\liti.ws\\drv\\cmm_two, *.go"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fmt.",
+			"print",
+			"println",
+			"print",
+			"NewClient",
+			"\")",
+			"err",
+			"fmt.",
+			"fmt",
+			"fmt.Pr",
+			"sendResponse",
+			"readRequest",
+			"readrequest(",
+			"fmt",
+			"fmt.",
+			"gobRegisterField",
+			"objectT",
+			"readRequestHeader",
+			"+",
+			"readRequest",
+			"sendResponse",
+			"readRequestHeader",
+			"suiableMethods",
+			"fmt",
+			"fmt.",
+			"fmt",
+			"for",
+			"fmt",
+			"fmt.",
+			"WriteRequest",
+			"gobServerCodec",
+			"GobEncode",
+			"ClientCodec",
+			"rwc",
+			"sendResponse(",
+			"freeRequest(",
+			"call(",
+			"ServeCodec(",
+			"NumCalls(",
+			"ReadRequestHeader(",
+			"readRequestHeader(",
+			"readRequest(",
+			"send(",
+			"ServeCodec(",
+			"ServeConn(",
+			"ServeConn",
+			"fmt.Println",
+			"\n	",
+			"1",
+			"hex",
+			"time",
+			"fmt.Println",
+			"fmt.Pr",
+			"handleConnection(",
+			"codec(",
+			"parseArg(",
+			"fmt.print",
+			"split",
+			"parseArg(",
+			"readHeader(",
+			"driverof not"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/MiniProject-GoLang/CloudChallenge/src/db/dbgplus.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/stack.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2076,
+								2021
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 929.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1787,
+								1787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1899.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/MiniProject-GoLang/CloudChallenge/src/algorithm/list/queue_test.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1965,
+								1965
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1473.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "algorithm/list/queue.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "algorithm/list/queue_test.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "algorithm/list/stack_test.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "db/dbgplus.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "algorithm/list/stack.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\Meo\\Desktop\\rpcResearch\\src\\rpc":
+	{
+		"height": 31.0
+	},
+	"output.9o://E:\\SVN\\Will-V2\\trunk\\src\\liti.ws\\drv\\cmm_two":
+	{
+		"height": 31.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 29.0
+	},
+	"project": "listdatastucture.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
