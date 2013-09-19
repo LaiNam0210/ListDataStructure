@@ -1,6 +1,6 @@
 ListDataStructure
 =================
 
-Implementation of Stack And List
+Implementation of Stack And List in golang
 
 
